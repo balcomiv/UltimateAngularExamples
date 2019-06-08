@@ -27,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Not noted, but must install
-ng add @angular/material (note, I removed the )
+ng add @angular/material (note, I removed the styles that were added to angular.json via scaffold. The Covalent app uses them slightly differently)
